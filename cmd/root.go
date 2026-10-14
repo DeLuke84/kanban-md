@@ -10,11 +10,11 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/thegapcloser/kanban-md/internal/board"
-	"github.com/thegapcloser/kanban-md/internal/clierr"
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/output"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/board"
+	"github.com/DeLuke84/kanban-md/internal/clierr"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/output"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 // version is set at build time via ldflags. Builds without ldflags, such as

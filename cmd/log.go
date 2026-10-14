@@ -5,10 +5,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/thegapcloser/kanban-md/internal/board"
-	"github.com/thegapcloser/kanban-md/internal/date"
-	"github.com/thegapcloser/kanban-md/internal/output"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/board"
+	"github.com/DeLuke84/kanban-md/internal/date"
+	"github.com/DeLuke84/kanban-md/internal/output"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 var logCmd = &cobra.Command{

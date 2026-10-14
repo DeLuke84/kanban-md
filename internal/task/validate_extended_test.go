@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/thegapcloser/kanban-md/internal/clierr"
+	"github.com/DeLuke84/kanban-md/internal/clierr"
 )
 
 // --- ValidateClass tests ---

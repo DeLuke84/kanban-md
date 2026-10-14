@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/thegapcloser/kanban-md/internal/clierr"
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/clierr"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 // --- runEdit error paths ---

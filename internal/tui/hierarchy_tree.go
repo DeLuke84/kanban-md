@@ -6,7 +6,7 @@ import (
 
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/thegapcloser/kanban-md/internal/board"
+	"github.com/DeLuke84/kanban-md/internal/board"
 )
 
 // Layout of the detail-view hierarchy tree.

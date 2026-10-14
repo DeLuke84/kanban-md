@@ -10,9 +10,9 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/task"
-	"github.com/thegapcloser/kanban-md/internal/tui"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/tui"
 )
 
 // titleGrandchild is the indirect descendant that must never show up as a

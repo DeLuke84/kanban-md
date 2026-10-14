@@ -11,8 +11,8 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/term"
 
-	"github.com/thegapcloser/kanban-md/internal/output"
-	"github.com/thegapcloser/kanban-md/internal/skill"
+	"github.com/DeLuke84/kanban-md/internal/output"
+	"github.com/DeLuke84/kanban-md/internal/skill"
 )
 
 var skillCmd = &cobra.Command{

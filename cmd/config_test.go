@@ -3,7 +3,7 @@ package cmd
 import (
 	"testing"
 
-	"github.com/thegapcloser/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/config"
 )
 
 const (

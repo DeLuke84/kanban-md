@@ -6,10 +6,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/thegapcloser/kanban-md/internal/clierr"
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/date"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/clierr"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/date"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 // DeleteResult is returned after a successful soft-delete (archive).

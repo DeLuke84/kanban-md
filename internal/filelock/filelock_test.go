@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/thegapcloser/kanban-md/internal/filelock"
+	"github.com/DeLuke84/kanban-md/internal/filelock"
 )
 
 func TestLockExclusive(t *testing.T) {

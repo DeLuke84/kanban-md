@@ -53,7 +53,7 @@ func TestMain(m *testing.M) {
 	coverDir := os.Getenv("GOCOVERDIR")
 	if coverDir != "" {
 		buildArgs = append(buildArgs, "-cover",
-			"-coverpkg=github.com/thegapcloser/kanban-md/...")
+			"-coverpkg=github.com/DeLuke84/kanban-md/...")
 	}
 	buildArgs = append(buildArgs, "../cmd/kanban-md")
 

@@ -11,8 +11,8 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 var mouseTestTime = time.Date(2026, 7, 16, 12, 0, 0, 0, time.UTC) //nolint:gochecknoglobals // fixed test clock

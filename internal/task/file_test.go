@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/thegapcloser/kanban-md/internal/date"
+	"github.com/DeLuke84/kanban-md/internal/date"
 )
 
 func TestWriteAndRead(t *testing.T) {

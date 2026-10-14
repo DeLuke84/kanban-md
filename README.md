@@ -1,9 +1,9 @@
 # kanban-md
 
-[![CI](https://github.com/thegapcloser/kanban-md/actions/workflows/build.yml/badge.svg)](https://github.com/thegapcloser/kanban-md/actions/workflows/build.yml)
-[![Release](https://github.com/thegapcloser/kanban-md/actions/workflows/release.yml/badge.svg)](https://github.com/thegapcloser/kanban-md/actions/workflows/release.yml)
-[![Latest Release](https://img.shields.io/github/v/release/thegapcloser/kanban-md)](https://github.com/thegapcloser/kanban-md/releases/latest)
-[![Go Reference](https://pkg.go.dev/badge/github.com/thegapcloser/kanban-md.svg)](https://pkg.go.dev/github.com/thegapcloser/kanban-md)
+[![CI](https://github.com/DeLuke84/kanban-md/actions/workflows/build.yml/badge.svg)](https://github.com/DeLuke84/kanban-md/actions/workflows/build.yml)
+[![Release](https://github.com/DeLuke84/kanban-md/actions/workflows/release.yml/badge.svg)](https://github.com/DeLuke84/kanban-md/actions/workflows/release.yml)
+[![Latest Release](https://img.shields.io/github/v/release/DeLuke84/kanban-md)](https://github.com/DeLuke84/kanban-md/releases/latest)
+[![Go Reference](https://pkg.go.dev/badge/github.com/DeLuke84/kanban-md.svg)](https://pkg.go.dev/github.com/DeLuke84/kanban-md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A file-based Kanban board for AI agents and the humans who supervise them.
@@ -31,11 +31,11 @@ Markdown file.
 ## Install
 
 ```bash
-go install github.com/thegapcloser/kanban-md/cmd/kanban-md@latest
+go install github.com/DeLuke84/kanban-md/cmd/kanban-md@latest
 ```
 
 Pre-built binaries for macOS, Linux and Windows are on the
-[Releases](https://github.com/thegapcloser/kanban-md/releases/latest) page.
+[Releases](https://github.com/DeLuke84/kanban-md/releases/latest) page.
 
 ## Quick start
 

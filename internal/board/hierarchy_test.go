@@ -7,9 +7,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/thegapcloser/kanban-md/internal/board"
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/board"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 func ptr(i int) *int { return &i }

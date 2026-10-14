@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/date"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/date"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 func newTestConfig() *config.Config {

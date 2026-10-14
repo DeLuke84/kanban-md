@@ -4,8 +4,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/thegapcloser/kanban-md/internal/config"
-	"github.com/thegapcloser/kanban-md/internal/task"
+	"github.com/DeLuke84/kanban-md/internal/config"
+	"github.com/DeLuke84/kanban-md/internal/task"
 )
 
 // PickOptions controls how the pick algorithm selects a task.

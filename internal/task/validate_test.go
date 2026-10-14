@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/thegapcloser/kanban-md/internal/clierr"
+	"github.com/DeLuke84/kanban-md/internal/clierr"
 )
 
 func TestValidateStatus_Valid(t *testing.T) {
